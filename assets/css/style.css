@@ -27,7 +27,7 @@ img { max-width:100%; display:block; }
 }
 
 /* Hero */
-.hero-section { background: url('../images/hero-bg.jpg') center/cover no-repeat; color:#fff; text-align:center; padding:4rem 1rem; }
+.hero-section { background: url('../images/EGS_8031.jpg') center/cover no-repeat; color:#fff; text-align:center; padding:4rem 1rem; }
 .button { display:inline-block; padding:0.75rem 1.5rem; background:#471719; color:#fff; border-radius:5px; margin-top:1rem; }
 
 /* Sections */
@@ -44,3 +44,13 @@ img { max-width:100%; display:block; }
 .site-footer a { margin:0 0.5rem; }
 
 /* Add your brand colors, fonts, and utility classes below */
+
+.flex{
+  display: flex;
+}
+.flex-space-between{
+  justify-content: space-between;
+}
+.gap-1{
+  gap: 1rem;
+}
